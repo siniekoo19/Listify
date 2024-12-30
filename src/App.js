@@ -77,7 +77,7 @@ function App() {
         {/* Body & Routes */}
         <Routes>
           {/* Home */}
-          <Route exact path="/" element={
+          <Route exact path="/Listify" element={
               <>
                 <AddTodo addTodo={addTodo} />
                 <Todos todos={todos} onDelete={onDelete}/>
