@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/listify/static/css/main.745f1b81.css",
+    "main.js": "/listify/static/js/main.3fb46eef.js",
+    "static/js/488.e1f42009.chunk.js": "/listify/static/js/488.e1f42009.chunk.js",
+    "index.html": "/listify/index.html",
+    "main.745f1b81.css.map": "/listify/static/css/main.745f1b81.css.map",
+    "main.3fb46eef.js.map": "/listify/static/js/main.3fb46eef.js.map",
+    "488.e1f42009.chunk.js.map": "/listify/static/js/488.e1f42009.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.745f1b81.css",
+    "static/js/main.3fb46eef.js"
+  ]
+}
