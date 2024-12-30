@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/listify/static/css/main.745f1b81.css",
-    "main.js": "/listify/static/js/main.3fb46eef.js",
-    "static/js/488.e1f42009.chunk.js": "/listify/static/js/488.e1f42009.chunk.js",
-    "index.html": "/listify/index.html",
-    "main.745f1b81.css.map": "/listify/static/css/main.745f1b81.css.map",
-    "main.3fb46eef.js.map": "/listify/static/js/main.3fb46eef.js.map",
-    "488.e1f42009.chunk.js.map": "/listify/static/js/488.e1f42009.chunk.js.map"
+    "main.css": "/Listify/static/css/main.745f1b81.css",
+    "main.js": "/Listify/static/js/main.e54ddad0.js",
+    "static/js/488.e1f42009.chunk.js": "/Listify/static/js/488.e1f42009.chunk.js",
+    "index.html": "/Listify/index.html",
+    "main.745f1b81.css.map": "/Listify/static/css/main.745f1b81.css.map",
+    "main.e54ddad0.js.map": "/Listify/static/js/main.e54ddad0.js.map",
+    "488.e1f42009.chunk.js.map": "/Listify/static/js/488.e1f42009.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.745f1b81.css",
-    "static/js/main.3fb46eef.js"
+    "static/js/main.e54ddad0.js"
   ]
 }
