@@ -1,6 +1,6 @@
 # Listify 
 
-![Listify](https://siniekoo19.github.io/Listify) is a responsive web application designed to help users efficiently organize and manage their tasks. Built using React for dynamic user experience and Bootstrap for sleek, responsive styling, Listify ensures a seamless and intuitive interface across all devices.
+[Listify](https://siniekoo19.github.io/Listify) is a responsive web application designed to help users efficiently organize and manage their tasks. Built using React for dynamic user experience and Bootstrap for sleek, responsive styling, Listify ensures a seamless and intuitive interface across all devices.
 
 ## Features
 
