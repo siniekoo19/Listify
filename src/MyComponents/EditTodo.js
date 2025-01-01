@@ -24,12 +24,12 @@ const EditTodo = ({ todos, updateTodo }) => {
         alert("Title/describtion can't be empty!!");
     } else {
       updateTodo(parseInt(id), title, desc);
-      navigate("/");
+      navigate("/Listify");
     }
   }
 
   const handleCancel = () => {
-    navigate("/"); 
+    navigate("/Listify"); 
   }
 
   return (

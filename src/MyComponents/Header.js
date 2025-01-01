@@ -14,7 +14,7 @@ export default function Header(props) {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <div className="container-fluid">
-        <Link className="navbar-brand" to="/">
+        <Link className="navbar-brand" to="/Listify">
           <h2 style={logoStyles}>{props.title}</h2>
         </Link>
         <button
@@ -31,7 +31,7 @@ export default function Header(props) {
         <div className="collapse navbar-collapse" id="navbarTogglerDemo02">
           <ul className="navbar-nav me-auto mb-2 mb-lg-0">
             <li className="nav-item">
-              <Link className="nav-link active" aria-current="page" to="/">
+              <Link className="nav-link active" aria-current="page" to="/Listify">
                 Home
               </Link>
             </li>
